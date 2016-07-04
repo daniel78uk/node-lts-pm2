@@ -2,7 +2,7 @@
 
 ## What is it
 
-This Dockerfile gives you a ready to use Node js continer with Pm2 and node build headers.
+This Dockerfile gives you a ready to use Node js container with PM2 and node build headers.
 
 ## Credits
 
